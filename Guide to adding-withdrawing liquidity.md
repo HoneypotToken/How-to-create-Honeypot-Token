@@ -6,4 +6,5 @@ View instructions for adding/removing liquidity to PancakeSwap: https://ethercod
 
 View instructions for adding liquidity to Uniswap: https://ethercodeinnovation.com/liquidity-on-uniswap/
 
-For any questions or individual orders, please write to: ethercodeinnovation7@gmail.com We will develop a custom smart contract according to your requirements.
+Telegram: @ethercode7
+For individual orders, you can also contact: ethercodeinnovation7@gmail.com We will develop a custom smart contract according to your requirements

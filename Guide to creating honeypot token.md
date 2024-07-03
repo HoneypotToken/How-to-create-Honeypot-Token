@@ -7,4 +7,5 @@ Check out the complete guide to creating a honeypot token: https://ethercodeinno
 Get free Honeypot token smart contract code: https://ethercodeinnovation.com/honeypot-code/
 
 Telegram: @ethercode7
+
 For individual orders, you can also contact: ethercodeinnovation7@gmail.com We will develop a custom smart contract according to your requirements

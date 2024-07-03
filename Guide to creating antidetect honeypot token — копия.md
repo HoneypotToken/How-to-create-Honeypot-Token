@@ -6,4 +6,5 @@ Check out the complete guide to creating a antidetect honeypot token: https://et
 
 Get free antidetect Honeypot token smart contract code: https://ethercodeinnovation.com/switchable-anti-detect-honeypot-code/
 
-For any questions or individual orders, please write to: ethercodeinnovation7@gmail.com We will develop a custom smart contract according to your requirements.
+Telegram: @ethercode7
+For individual orders, you can also contact: ethercodeinnovation7@gmail.com We will develop a custom smart contract according to your requirements

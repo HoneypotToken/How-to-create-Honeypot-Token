@@ -6,6 +6,6 @@ Check out the complete guide to creating a normal token: https://ethercodeinnova
 
 Get free Normal token smart contract code: https://ethercodeinnovation.com/regular-code/
 
-Telegram: @ethercode7
+Telegram: @EtherCodeInnovation
 
 For individual orders, you can also contact: ethercodeinnovation7@gmail.com We will develop a custom smart contract according to your requirements

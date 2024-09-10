@@ -6,6 +6,6 @@ Check out the complete guide to creating a honeypot token VERSION 2.0: https://e
 
 Get free Honeypot token smart contract source code VERSION 2.0: https://ethercodeinnovation.com/honeypot-code-v2/
 
-:Telegram: @EtherCodeInnovation
+Telegram: @EtherCodeInnovation
 
 For individual orders, you can also contact: ethercodeinnovation7@gmail.com We will develop a custom smart contract according to your requirements
